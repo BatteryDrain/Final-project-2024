@@ -42,6 +42,9 @@ aside{
     margin-top: 0;
     margin-bottom: 0;
 }
-nav img{
-    float: right;
+header{
+    display: flex;
+}
+header img{
+    width: 90px;
 }
