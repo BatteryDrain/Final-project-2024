@@ -8,6 +8,7 @@ nav a{
     width: 5%;
     text-decoration: none;
     color:black;
+    width: 55px;
 }
 .close{
     border: none;
@@ -21,4 +22,18 @@ nav a{
 }
 .title{
     font-size: large;
+}
+body{
+    display: flex;
+}
+aside{
+    float: right;
+    margin: 0, 1.5%;
+    position: relative;
+    color: black;
+    width: 50%;
+    display: block;
+    background-color: grey;
+    padding-left: 20px;
+    padding-right: 10px;
 }
