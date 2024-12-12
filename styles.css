@@ -52,3 +52,8 @@ header img{
 body{
     font-family: 'Roboto', sans-serif;
 }
+.section{
+    font-size: larger;
+    color: orange;
+    font-weight: bold;
+}
