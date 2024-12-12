@@ -5,10 +5,9 @@ nav a{
     border-radius: 5px;
     margin-top: 20px;
     margin-bottom: 20px;
-    width: 5%;
+    width: 90px;
     text-decoration: none;
     color:black;
-    width: 75px;
 }
 .close{
     border: none;
@@ -50,6 +49,6 @@ header{
 header img{
     width: 90px;
 }
-body {
+body{
     font-family: 'Roboto', sans-serif;
 }
