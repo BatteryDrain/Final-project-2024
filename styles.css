@@ -24,6 +24,8 @@ nav a{
 }
 .title{
     font-size: large;
+    color: rgba(44, 143, 44, 0.752);
+    font-weight: bold;
 }
 body{
     display: flex;
@@ -35,7 +37,7 @@ aside{
     color: black;
     width: 800px;
     display: block;
-    background-color: grey;
+    background-color: rgb(255, 179, 0);
     padding-left: 20px;
     padding-right: 10px;
     margin-right: 0;
