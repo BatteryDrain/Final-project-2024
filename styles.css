@@ -8,17 +8,19 @@ nav a{
     width: 5%;
     text-decoration: none;
     color:black;
-    width: 55px;
+    width: 75px;
 }
 .close{
     border: none;
     background-color: white;
     font-size: 30px;
+    margin-bottom: 117px;
 }
 .open{
     background-color: grey;
     border: 2px solid black;
     border-radius: 5px;
+    margin-bottom: 0;
 }
 .title{
     font-size: large;
