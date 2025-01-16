@@ -65,11 +65,11 @@ body{
         width: 100%;
         background-color: rgb(255, 179, 0);
         color: black;
-        order: 2; /* Ensure aside is below the main content */
+        order: 2;
     }
 
     nav {
-        order: 0; /* Ensure nav stays at the top */
+        order: 0;
     }
 }
 @media screen and (min-width: 401px){
