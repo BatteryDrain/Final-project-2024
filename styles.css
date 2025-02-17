@@ -1,6 +1,7 @@
 nav a{
     display: none;
     background-color: orange;
+    border: 2px solid orange;
     border-radius: 5px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -18,7 +19,7 @@ nav a{
 }
 .open{
     background-color: orange;
-    border: 2px solid black;
+    border: 2px solid orange;
     border-radius: 5px;
     margin-bottom: 0;
     color: white;
