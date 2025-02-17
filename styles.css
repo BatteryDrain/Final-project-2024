@@ -7,7 +7,7 @@ nav a{
     margin-bottom: 20px;
     width: 90px;
     text-decoration: none;
-    color:white;
+    color: greenyellow;
 }
 .close{
     border: none;
@@ -22,7 +22,7 @@ nav a{
     border: 2px solid orange;
     border-radius: 5px;
     margin-bottom: 0;
-    color: white;
+    color: greenyellow;
 }
 .title{
     font-size: large;
